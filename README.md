@@ -1,5 +1,5 @@
 # p2-iproject-client
-##Individual Project - Client
+## Individual Project - Client
 ### You can find server side in repo p2-iproject-server
 
 ![Pinmeme1](https://user-images.githubusercontent.com/76916527/224744172-2e166fe5-b7d9-4985-a771-31a741c22896.png)
